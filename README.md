@@ -22,6 +22,6 @@ I'm Anurag Singh Chauhan, a B.Tech Cyber Security student passionate about softw
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AnuragGGITS &icon=2&color=8)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=AnuragGGITS&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
