@@ -16,7 +16,6 @@ I'm Anurag Singh Chauhan, a B.Tech Cyber Security student passionate about softw
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AnuragGGITS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://streak-stats.demolab.com/?user=AnuragGGITS&theme=dark&hide_border=false)
-![](https://streak-stats.demolab.com/?user=AnuragGGITS&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnuragGGITS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
