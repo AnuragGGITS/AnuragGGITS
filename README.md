@@ -14,7 +14,9 @@ I'm Anurag Singh Chauhan, a B.Tech Cyber Security student passionate about softw
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,cs,mongodb,mysql,postgres,docker,kubernetes,azure,aws,gcp,git,github,linux,pycharm,postman,cloudflare)]
 # 📊 GitHub Stats:
-![](https://shion.dev)
+![](https://github-readme-stats.shion.dev/api?username=AnuragGGITS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=AnuragGGITS&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnuragGGITS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
