@@ -17,7 +17,7 @@ I'm Anurag Singh Chauhan, a B.Tech Cyber Security student passionate about softw
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnuragGGITS&theme=vue-dark&hide_border=false))
 
 ![](https://github-readme-stats.vercel.app/api?username=AnuragGGITS&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![]((https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragGGITS&theme=vue-dark&show_icons=true&hide_border=false&layout=compact))
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragGGITS&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
